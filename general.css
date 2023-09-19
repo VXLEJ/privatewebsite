@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+        body{
+            background-color: #FDEBB5 !important;
+        }
+        #demo-text {
+	font-size: 70px;
+	font-weight: 700;
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+	background-image: url('https://cdn.pixabay.com/photo/2018/03/09/17/46/paprika-3212163_1280.jpg');
+}
+#demo-text3 {
+	font-size: 50px;
+	font-weight: 700;
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+	background-image: url('https://cdn.pixabay.com/photo/2018/03/09/17/46/paprika-3212163_1280.jpg');
+}
+#demo-text2 {
+	font-size: 80px;
+	font-weight: 700;
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+	background-image: url('https://cdn.pixabay.com/photo/2017/08/25/11/10/plum-2679782_1280.jpg');
+}
+.nav-link:hover{
+    color: black !important;
+    scale: 1.12;
+    transition: 2s !important;
+}
+.navbar-brand:hover{
+    scale: 1.12;
+    rotate: -5deg;
+    transition: 0.5s !important;
+}
+.navbar-brand:active{
+rotate: 360deg;
+transition: 1s !important;
+}
+
+.titolohome{
+	font-size: 70PX;
+	font-weight: 700;
+	font-family: 'Fugaz One', cursive;
+	color: #FFFFFF;
+}
